@@ -1,6 +1,6 @@
-##DevOps Learning Progress
+## DevOps Learning Progress
 
-#Current Status
+# Current Status
 
 Current Phase: Phase 1 — Foundation
 
@@ -10,16 +10,16 @@ Status: Not started
 
 Planned Start: 12 November 2026
 
-#Completed
+# Completed
 
 - Roadmap preparation
 - Initial repository documentation
 
-#Learning History
+# Learning History
 
 Date| Topic| Status
 12 Nov 2026| Git and GitHub — Fundamentals| Planned
 
-#Next Step
+# Next Step
 
 Begin Git fundamentals from Level 1.

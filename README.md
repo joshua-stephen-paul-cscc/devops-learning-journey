@@ -1,10 +1,10 @@
-##DevOps Learning Journey
+## DevOps Learning Journey
 
 This repository documents my journey of learning Cloud Computing and DevOps from the fundamentals to practical projects.
 
 My goal is to build a strong understanding of the tools, technologies, and practices used in modern DevOps environments while developing practical skills through hands-on exercises and projects.
 
-#Learning Approach
+# Learning Approach
 
 - Learn concepts through courses, tutorials, documentation, and different instructors.
 - Practise each topic through hands-on exercises.
@@ -12,7 +12,7 @@ My goal is to build a strong understanding of the tools, technologies, and pract
 - Build practical projects to apply what I learn.
 - Track completed topics and progress in ""PROGRESS.md"" (PROGRESS.md).
 
-#Roadmap
+# Roadmap
 
 My learning path covers:
 

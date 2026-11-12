@@ -1,10 +1,10 @@
-##DevOps Learning Roadmap
+## DevOps Learning Roadmap
 
 Overview
 
 A structured learning path covering the fundamentals of DevOps, automation, infrastructure, cloud computing, and modern deployment practices.
 
-##Learning Roadmap
+## Learning Roadmap
 
 No.| Area| Main Topics
 01| Git and GitHub| Version control, commits, branches, merging, remote repositories
@@ -21,7 +21,7 @@ No.| Area| Main Topics
 
 Additional Topics: DevSecOps fundamentals and software engineering practices.
 
-##Phase 1 — Foundation
+## Phase 1 — Foundation
 
 Weeks 1–2: Git and Terminal Basics
 
@@ -87,7 +87,7 @@ Develop a Python script that:
 3. Writes a status message to "status.log" when the check fails.
 4. Uses Python's "requests" and "os" modules.
 
-#Future Learning Areas
+# Future Learning Areas
 
 - Linux administration and shell scripting
 - Networking and security
